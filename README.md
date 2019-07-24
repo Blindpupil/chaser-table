@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chaser Table
+
+Table data mocked until CORS issue is resolved with endpoints. 
+Mock uses promises to simulate actual server data.
 
 ## Available Scripts
 
